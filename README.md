@@ -1,4 +1,11 @@
-#Typing Test
+## Typing Test Project
+
 Hey guys, here is a very interesting video about cheating in typing tests.
-website: https://10fastfingers.com/ 
-my codes on GitHub: https://github.com/mreskini/typing_test.git
+website:
+```bash
+https://10fastfingers.com/
+```
+my code on GitHub:
+```bash
+https://github.com/mreskini/typing_test.git
+```
